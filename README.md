@@ -47,3 +47,55 @@ Product Owner
 •	Key stakeholder who should have deep understanding of the product and communicates with both the team and other stakeholders. Is our key point of contact.
 Scrum Master
 •	Ensures the team keeps to the values of Scrum, facilitates meetings and removes impediments
+
+###SCRUM Events - The Sprint
+Includes
+•	Planning and development work
+•	Daily scrum
+-	15 minute time-boxed event for the development team
+-	Held everyday of the sprint
+-	Focusses on progress towards the sprint goal
+-	Facilitated by the Scrum master
+-	So what I did yesterday that helped the team meet the Sprint Goal and what I will do today to help the team meet the Sprint Goal
+•	Sprint review at the end
+•	Team retrospective before the next sprint
+During the Sprint
+•	No changes are made to endanger the Sprint goal
+•	Short planning horizon (no more than 1 month ahead)
+•	Scope may be clarified and re-negotiated between the Product Owner and the development team
+
+###The different steps
+Sprint Planning
+Format
+•	Collaborative work of the entire team
+•	Timeboxed according to the duration of the sprint
+Typical individual contribution
+•	What work will be done in this Sprint?
+•	How will the chosen work get done?
+•	What is the goal of this sprint?
+
+Sprint Review
+Format
+•	Informal discussion about what was done during the sprint and to adapt to the product backlog
+•	Explain what has been done and what hasn’t
+•	Demonstrate the working package
+•	Review the timeline, budget. Capabilities
+•	Timeboxed to 4 hours for a month-long Sprint or less if shorter Sprint
+
+Sprint retrospective
+Format
+•	Identify what went well and what needs improvement
+•	Create a plan for improvements
+•	Timeboxed to 3 hours for a month-long Sprint or less if shorter Sprint
+•	Things we need to start doing, need doing and keep doing
+
+### Scrum Artefacts
+SCRUM Artefacts
+•	Product backlog
+•	SPRINT backlog
+•	Task Board
+•	Burn Down Chart
+•	Burn Up Chart
+•	Definition of Done
+•	Increment
+•	Big visible charts
