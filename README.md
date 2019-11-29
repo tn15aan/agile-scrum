@@ -1,7 +1,7 @@
-#What is Agile?
+# What is Agile?
 Set of values and principles the help people make software
 
-#Origins of Agile
+# Origins of Agile
 Software developers in the 80s and 90s experienced high levels of failed projects & noticed some common traits:
 •	Too much analysis upfront
 •	Restrictive change control
@@ -10,7 +10,7 @@ So
 •	Software developers collaborated and experimented with new ways of working
 •	Working software over contract negotiation
 
-#The Agile Manifesto
+# The Agile Manifesto
 We are uncovering better ways of developing software by doing it and helping others do it. Through this work we have come to value:
 •	Individuals & interactions over processes & tools
 •	Working software over comprehensive documentation
@@ -23,11 +23,11 @@ The View:
 •	As new events unfold the project team incorporates those realities into the ongoing work
 •	Changes become opportunities to add value instead of being obstacles to avoid
 
-##SCRUM
+## SCRUM
 A team based framework to develop complex systems and products
 Product backlog -> Sprint Planning -> Sprint Backlog -> Daily Scrum -> Sprint Review -> Increment / Sprint Retrospective -> Sprint Planning....
 
-##3 Pillars of SCRUM
+## 3 Pillars of SCRUM
 Working on an experience based manner so progress is based on reality, not fictionious plans
 Transparency
 •	Everyone presents the facts as is and collectively collaborates for the common organizational objective. No one has a hidden agenda
@@ -36,7 +36,7 @@ Inspection
 Adaptation
 •	Is about continuous improvement, to adapt based on the results of the inspection. Everyone should reflect on how to improve
 
-##Roles and Accountability
+## Roles and Accountability
 Scrum Team
 •	Co-located
 •	Engaged with the customer(s)
@@ -48,7 +48,7 @@ Product Owner
 Scrum Master
 •	Ensures the team keeps to the values of Scrum, facilitates meetings and removes impediments
 
-###SCRUM Events - The Sprint
+### SCRUM Events - The Sprint
 Includes
 •	Planning and development work
 •	Daily scrum
@@ -64,7 +64,7 @@ During the Sprint
 •	Short planning horizon (no more than 1 month ahead)
 •	Scope may be clarified and re-negotiated between the Product Owner and the development team
 
-###The different steps
+### The different steps
 Sprint Planning
 Format
 •	Collaborative work of the entire team
